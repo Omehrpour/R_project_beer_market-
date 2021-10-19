@@ -1,0 +1,2 @@
+# R_project_beer_market-
+Introduction: From two datasets called Beer and Breweries provided by Budweiser, we can find important information for Budweiser. The facts we focus on are alcohol, Beer size, Alcohol by volume of the beer (ABV), and International Bitterness Units of the beer (IBU). This dataset consists of information about 2410 US craft beers from 558 US breweries. This data analysis aims to provide descriptive information about the current craft beer market in the United States.
